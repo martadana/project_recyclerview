@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="programing_laguages">
+        <item>C++</item>
+        <item>JAVA</item>
+        <item>Javascript</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>DESKRIPSI ACAK</item>
+        <item>DESKRIPSI ACAK</item>
+        <item>DESKRIPSI ACAK</item>
+        <item>DESKRIPSI ACAK</item>
+        <item>DESKRIPSI ACAK</item>
+    </string-array>
+</resources>
