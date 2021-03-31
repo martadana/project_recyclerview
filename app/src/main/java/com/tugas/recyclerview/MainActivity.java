@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
 
     String s1[], s2[];
-    int images [] = {R.drawable.c_plus,R.drawable.java,R.drawable.javascripts,R.drawable.kotlin,R.drawable.python};
+    int images [] = {R.drawable.c_plus,R.drawable.java,R.drawable.javascripts,R.drawable.kotlin,R.drawable.python,R.drawable.c_plus,R.drawable.java,R.drawable.javascripts,R.drawable.kotlin,R.drawable.python};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

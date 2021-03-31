@@ -7,9 +7,19 @@
         <item>Javascript</item>
         <item>Kotlin</item>
         <item>Python</item>
+        <item>C++</item>
+        <item>JAVA</item>
+        <item>Javascript</item>
+        <item>Kotlin</item>
+        <item>Python</item>
     </string-array>
 
     <string-array name="description">
+        <item>DESKRIPSI ACAK</item>
+        <item>DESKRIPSI ACAK</item>
+        <item>DESKRIPSI ACAK</item>
+        <item>DESKRIPSI ACAK</item>
+        <item>DESKRIPSI ACAK</item>
         <item>DESKRIPSI ACAK</item>
         <item>DESKRIPSI ACAK</item>
         <item>DESKRIPSI ACAK</item>
